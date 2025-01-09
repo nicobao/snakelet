@@ -17,7 +17,7 @@ Instead of using the lib directly, the source code itself can be used for inspir
 ## Install
 
 ```
-go get github.com/CIDgravity/snakelet
+go get github.com/nicobao/snakelet
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ package main
 import (
 	"fmt"
 
-	snakelet "github.com/CIDgravity/snakelet"
+	snakelet "github.com/nicobao/snakelet"
 )
 
 type DatabaseConfig struct {
@@ -101,6 +101,7 @@ Also checkout [the test file](./config_test.go) and [the source code](./config.g
 ## License
 
 Copyright (c), 2022, CIDgravity.
+Copyright (c), 2024, Nicolas Gimenez.
 
 All this work is licensed under permissive open-source license.
 
