@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/CIDgravity/snakelet/testutil"
+	"github.com/nicobao/snakelet/testutil"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/require"

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	snakelet "github.com/CIDgravity/snakelet"
+	snakelet "github.com/nicobao/snakelet"
 )
 
 type DatabaseConfig struct {
